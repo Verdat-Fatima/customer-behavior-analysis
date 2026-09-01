@@ -69,7 +69,7 @@ Done in `customer_shopping_behaviour_analysis.ipynb`:
 
 ## 🗃 SQL Analysis
 
-Ten business questions answered directly in PostgreSQL — see [SQL Analysis.sql](SQL Analysis.sql) for the full queries.
+Ten business questions answered directly in PostgreSQL — see [sql_analysis.sql](sql_analysis.sql) for the full queries.
 
 <details>
 <summary><b>Click to expand all 10 questions</b></summary>
@@ -146,7 +146,7 @@ customer-behavior-analysis/
 1. Clone the repo and open `customer_shopping_behaviour_analysis.ipynb` in Jupyter.
 2. Run the notebook top to bottom — it cleans the raw CSV and loads the result into PostgreSQL.
 3. Update the database credentials in the notebook's SQLAlchemy connection cell to match your local Postgres setup.
-4. Run the queries in `work.sql` against the loaded `customer` table.
+4. Run the queries in `sql_analysis.sql` against the loaded `customer` table.
 5. Open `Customer_Behavior_Dashboard.pbix` in Power BI Desktop and point it at the same table to explore the visuals.
 
 
