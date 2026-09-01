@@ -69,7 +69,7 @@ Done in `customer_shopping_behaviour_analysis.ipynb`:
 
 ## 🗃 SQL Analysis
 
-Ten business questions answered directly in PostgreSQL — see [`work.sql`](work.sql) for the full queries.
+Ten business questions answered directly in PostgreSQL — see [`SQL Analysis.sql`](SQL Analysis.sql) for the full queries.
 
 <details>
 <summary><b>Click to expand all 10 questions</b></summary>
