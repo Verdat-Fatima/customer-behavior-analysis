@@ -69,7 +69,7 @@ Done in `customer_shopping_behaviour_analysis.ipynb`:
 
 ## 🗃 SQL Analysis
 
-Ten business questions answered directly in PostgreSQL — see [`SQL Analysis.sql`](SQL Analysis.sql) for the full queries.
+Ten business questions answered directly in PostgreSQL — see [SQL Analysis.sql](SQL Analysis.sql) for the full queries.
 
 <details>
 <summary><b>Click to expand all 10 questions</b></summary>
@@ -118,8 +118,7 @@ Built in `Customer_Behavior_Dashboard.pbix`, the dashboard turns the SQL finding
 - **Slicers** for `gender`, `category`, `shipping_type`, and `subscription_status`, so any of the visuals can be filtered on the fly
 
 
-> `<img width="990" height="719" alt="image" src="https://github.com/user-attachments/assets/b552169d-8ac8-4e51-af64-d65274e91617" />
-`
+> <img width="990" height="719" alt="image" src="https://github.com/user-attachments/assets/b552169d-8ac8-4e51-af64-d65274e91617" />
 
 ## 🛠 Tech Stack
 
