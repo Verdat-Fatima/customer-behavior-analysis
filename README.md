@@ -119,7 +119,7 @@ Built in `Customer_Behavior_Dashboard.pbix`, the dashboard turns the SQL finding
 customer-behavior-analysis/
 ├── customer_shopping_behaviour_analysis.ipynb   # Cleaning & feature engineering
 ├── customer_shopping_behavior.csv               # Raw dataset
-├── SQL Analysis.sql                                     # SQL business questions
+├── sql_analysis.sql                             # SQL business questions
 ├── Customer_Behavior_Dashboard.pbix             # Power BI dashboard
 └── README.md
 ````
