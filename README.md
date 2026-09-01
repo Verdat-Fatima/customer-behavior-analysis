@@ -89,24 +89,7 @@ Ten business questions answered directly in PostgreSQL — see [sql_analysis.sql
 
 </details>
 
-<details>
-<summary><b>Sample query — customer segmentation (Q7)</b></summary>
 
-````sql
-SELECT customer_segment, COUNT(*) AS "Total"
-FROM (
-    SELECT customer_id, previous_purchases,
-        CASE
-            WHEN previous_purchases = 1 THEN 'New'
-            WHEN previous_purchases BETWEEN 2 AND 10 THEN 'Returning'
-            ELSE 'Loyal'
-        END AS customer_segment
-    FROM customer
-) sub
-GROUP BY customer_segment;
-````
-
-</details>
 
 ## 📊 Power BI Dashboard
 
