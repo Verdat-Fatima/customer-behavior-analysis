@@ -2,7 +2,7 @@
 
 An end-to-end analysis of a customer shopping behavior dataset — cleaned and explored in **Pandas**, queried in **PostgreSQL**, and visualized in an interactive **Power BI** dashboard.
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-150458?logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Analysis-4169E1?logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
